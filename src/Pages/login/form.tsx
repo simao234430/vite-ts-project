@@ -6,7 +6,7 @@ import {
   Button,
   Space,
 } from '@arco-design/web-react';
-import { FormInstance } from '@arco-design/web-react/es/Form';
+import { FormInstance } from '@simao234430/yoo-components/dist/Form';
 import { IconLock, IconUser } from '@arco-design/web-react/icon';
 import React, { useEffect, useRef, useState } from 'react';
 import axios from 'axios';
