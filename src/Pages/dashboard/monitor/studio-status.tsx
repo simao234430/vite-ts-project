@@ -5,7 +5,7 @@ import {
   Tag,
   Space,
   Descriptions,
-} from '@arco-design/web-react';
+} from '@simao234430/yoo-components';
 import useLocale from '@/utils/useLocale';
 import locale from './locale';
 

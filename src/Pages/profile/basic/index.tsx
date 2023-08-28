@@ -8,7 +8,7 @@ import {
   Button,
   Table,
   Badge,
-} from '@arco-design/web-react';
+} from '@simao234430/yoo-components';
 import axios from 'axios';
 import useLocale from '@/utils/useLocale';
 import locale from './locale';

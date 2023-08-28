@@ -1,5 +1,5 @@
 import React from 'react';
-import { Trigger, Typography } from '@arco-design/web-react';
+import { Trigger, Typography } from '@simao234430/yoo-components';
 import { SketchPicker } from 'react-color';
 import { generate, getRgbStr } from '@arco-design/color';
 import { useSelector, useDispatch } from 'react-redux';

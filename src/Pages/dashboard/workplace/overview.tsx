@@ -6,9 +6,9 @@ import {
   Divider,
   Skeleton,
   Link,
-} from '@arco-design/web-react';
+} from '@simao234430/yoo-components';
 import { useSelector } from 'react-redux';
-import { IconCaretUp } from '@arco-design/web-react/icon';
+import { IconCaretUp } from '@simao234430/yoo-components/icon/index.es';
 import OverviewAreaLine from '@/components/Chart/overview-area-line';
 import axios from 'axios';
 import locale from './locale';

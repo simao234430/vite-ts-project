@@ -7,13 +7,13 @@ import {
   Link,
   Result,
   Skeleton,
-} from '@arco-design/web-react';
+} from '@simao234430/yoo-components';
 import useLocale from '@/utils/useLocale';
 import locale from './locale';
 import UserInfoHeader from './header';
 import styles from './style/index.module.less';
 import './mock';
-import { Card } from '@arco-design/web-react';
+import { Card } from '@simao234430/yoo-components';
 import MyProject from './my-projects';
 import MyTeam from './my-team';
 import LatestNews from './latest-news';

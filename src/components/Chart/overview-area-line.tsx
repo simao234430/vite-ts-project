@@ -1,6 +1,6 @@
 import React from 'react';
 import { Chart, Line, Axis, Area, Tooltip } from 'bizcharts';
-import { Spin } from '@arco-design/web-react';
+import { Spin } from '@simao234430/yoo-components';
 import CustomTooltip from './customer-tooltip';
 
 function OverviewAreaLine({

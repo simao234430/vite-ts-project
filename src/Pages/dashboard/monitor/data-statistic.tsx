@@ -1,4 +1,4 @@
-import { Button, Card, Radio, Tabs } from '@arco-design/web-react';
+import { Button, Card, Radio, Tabs } from '@simao234430/yoo-components';
 import React from 'react';
 import useLocale from '@/utils/useLocale';
 import locale from './locale';

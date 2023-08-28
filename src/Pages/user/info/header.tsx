@@ -1,11 +1,11 @@
 import React from 'react';
-import { Avatar, Space, Skeleton } from '@arco-design/web-react';
+import { Avatar, Space, Skeleton } from '@simao234430/yoo-components';
 import {
   IconCamera,
   IconLocation,
   IconUser,
   IconHome,
-} from '@arco-design/web-react/icon';
+} from '@simao234430/yoo-components/icon/index.es';
 import styles from './style/index.module.less';
 
 interface HeaderProps {

@@ -7,8 +7,8 @@ import {
   Tag,
   Skeleton,
   Link,
-} from '@arco-design/web-react';
-import { IconCamera, IconPlus } from '@arco-design/web-react/icon';
+} from '@simao234430/yoo-components';
+import { IconCamera, IconPlus } from '@simao234430/yoo-components/icon/index.es';
 import useLocale from '@/utils/useLocale';
 import locale from './locale';
 import styles from './style/header.module.less';

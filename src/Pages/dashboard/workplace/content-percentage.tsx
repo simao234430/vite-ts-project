@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Card, Spin, Typography } from '@arco-design/web-react';
+import { Card, Spin, Typography } from '@simao234430/yoo-components';
 import { DonutChart } from 'bizcharts';
 import axios from 'axios';
 import useLocale from '@/utils/useLocale';

@@ -1,6 +1,6 @@
 import React from 'react';
-import { Button, Tooltip, Message } from '@arco-design/web-react';
-import { IconCopy } from '@arco-design/web-react/icon';
+import { Button, Tooltip, Message } from '@simao234430/yoo-components';
+import { IconCopy } from '@simao234430/yoo-components/icon/index.es';
 import clipboard from '@/utils/clipboard';
 import styles from './style/code-block.module.less';
 

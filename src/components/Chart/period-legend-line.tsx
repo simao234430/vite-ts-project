@@ -1,6 +1,6 @@
 import React from 'react';
 import { Chart, Line, Axis, Tooltip, Legend, Slider } from 'bizcharts';
-import { Spin } from '@arco-design/web-react';
+import { Spin } from '@simao234430/yoo-components';
 import CustomTooltip from './customer-tooltip';
 import useBizTheme from '@/utils/useChartTheme';
 

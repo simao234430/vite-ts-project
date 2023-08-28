@@ -9,7 +9,7 @@ import {
   Divider,
   Message,
   Button,
-} from '@arco-design/web-react';
+} from '@simao234430/yoo-components';
 import {
   IconLanguage,
   IconNotification,
@@ -23,7 +23,7 @@ import {
   IconInteraction,
   IconTag,
   IconLoading,
-} from '@arco-design/web-react/icon';
+} from '@simao234430/yoo-components/icon/index.es';
 import { useSelector, useDispatch } from 'react-redux';
 import { GlobalState } from '@/store';
 import { GlobalContext } from '@/context';

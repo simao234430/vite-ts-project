@@ -10,7 +10,7 @@ import {
   Dropdown,
   Menu,
   Skeleton,
-} from '@arco-design/web-react';
+} from '@simao234430/yoo-components';
 import {
   IconStarFill,
   IconThumbUpFill,
@@ -20,7 +20,7 @@ import {
   IconCheckCircleFill,
   IconCloseCircleFill,
   IconMore,
-} from '@arco-design/web-react/icon';
+} from '@simao234430/yoo-components/icon/index.es';
 import PermissionWrapper from '@/components/PermissionWrapper';
 import useLocale from '@/utils/useLocale';
 import locale from './locale';

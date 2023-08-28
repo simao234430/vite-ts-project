@@ -12,7 +12,7 @@ import {
   Card,
   Switch,
   Result,
-} from '@arco-design/web-react';
+} from '@simao234430/yoo-components';
 import useLocale from '@/utils/useLocale';
 import locale from './locale';
 import styles from './style/index.module.less';

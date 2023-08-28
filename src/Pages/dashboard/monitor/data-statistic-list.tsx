@@ -1,4 +1,4 @@
-import { Table, Tag, Typography } from '@arco-design/web-react';
+import { Table, Tag, Typography } from '@simao234430/yoo-components';
 import React from 'react';
 import useLocale from '@/utils/useLocale';
 import locale from './locale';

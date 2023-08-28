@@ -6,8 +6,8 @@ import {
   Button,
   Typography,
   Spin,
-} from '@arco-design/web-react';
-import { IconDownload, IconFaceSmileFill } from '@arco-design/web-react/icon';
+} from '@simao234430/yoo-components';
+import { IconDownload, IconFaceSmileFill } from '@simao234430/yoo-components/icon/index.es';
 import axios from 'axios';
 import useLocale from '@/utils/useLocale';
 import locale from './locale';

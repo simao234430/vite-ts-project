@@ -9,7 +9,7 @@ import {
   Legend,
 } from 'bizcharts';
 import CustomTooltip from './customer-tooltip';
-import { Spin } from '@arco-design/web-react';
+import { Spin } from '@simao234430/yoo-components';
 import DataSet from '@antv/data-set';
 
 interface AreaPolarProps {

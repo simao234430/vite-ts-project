@@ -5,9 +5,9 @@ import {
   Link,
   Button,
   Space,
-} from '@arco-design/web-react';
+} from '@simao234430/yoo-components';
 import { FormInstance } from '@simao234430/yoo-components/dist/Form';
-import { IconLock, IconUser } from '@arco-design/web-react/icon';
+import { IconLock, IconUser } from '@simao234430/yoo-components/icon/index.es';
 import React, { useEffect, useRef, useState } from 'react';
 import axios from 'axios';
 import useStorage from '@/utils/useStorage';

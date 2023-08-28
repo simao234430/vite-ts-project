@@ -1,9 +1,9 @@
 import './style/global.less';
 import { BrowserRouter, Route,Switch } from 'react-router-dom';
-import zhCN from '@arco-design/web-react/es/locale/zh-CN';
-import enUS from '@arco-design/web-react/es/locale/en-US';
+import zhCN from '@simao234430/yoo-components/dist/locale/zh-CN';
+import enUS from '@simao234430/yoo-components/dist/locale/en-US';
 import { Provider } from 'react-redux';
-import { ConfigProvider } from '@arco-design/web-react';
+import { ConfigProvider } from '@simao234430/yoo-components';
 import { GlobalContext } from './context';
 import Login from './pages/login';
 import checkLogin from './utils/checkLogin';

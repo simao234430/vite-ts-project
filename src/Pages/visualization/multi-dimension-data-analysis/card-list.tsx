@@ -6,14 +6,14 @@ import {
   Grid,
   Card,
   Skeleton,
-} from '@arco-design/web-react';
+} from '@simao234430/yoo-components';
 import cs from 'classnames';
 import { Chart, Line, Interval, Tooltip, Interaction } from 'bizcharts';
 import axios from 'axios';
 import useLocale from '@/utils/useLocale';
 import locale from './locale';
 
-import { IconArrowRise, IconArrowFall } from '@arco-design/web-react/icon';
+import { IconArrowRise, IconArrowFall } from '@simao234430/yoo-components/icon/index.es';
 import styles from './style/card-block.module.less';
 
 const { Row, Col } = Grid;

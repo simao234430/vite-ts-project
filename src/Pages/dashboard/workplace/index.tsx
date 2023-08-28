@@ -1,5 +1,5 @@
 import React from 'react';
-import { Grid, Space } from '@arco-design/web-react';
+import { Grid, Space } from '@simao234430/yoo-components';
 import Overview from './overview';
 import PopularContents from './popular-contents';
 import ContentPercentage from './content-percentage';

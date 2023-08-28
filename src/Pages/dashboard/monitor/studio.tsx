@@ -1,5 +1,5 @@
-import { Card, Typography, Avatar, Space, Grid } from '@arco-design/web-react';
-import { IconMore } from '@arco-design/web-react/icon';
+import { Card, Typography, Avatar, Space, Grid } from '@simao234430/yoo-components';
+import { IconMore } from '@simao234430/yoo-components/icon/index.es';
 import React from 'react';
 import useLocale from '@/utils/useLocale';
 import locale from './locale';

@@ -1,6 +1,6 @@
 import React from 'react';
-import { Alert, Card, Link, Typography, Tag } from '@arco-design/web-react';
-import { IconDoubleRight } from '@arco-design/web-react/icon';
+import { Alert, Card, Link, Typography, Tag } from '@simao234430/yoo-components';
+import { IconDoubleRight } from '@simao234430/yoo-components/icon/index.es';
 import { useSelector } from 'react-redux';
 import useLocale from '@/utils/useLocale';
 import locale from './locale';

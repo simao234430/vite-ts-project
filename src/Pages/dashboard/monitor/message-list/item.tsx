@@ -1,6 +1,6 @@
 import React from 'react';
-import { Space, Typography } from '@arco-design/web-react';
-import { IconCommand, IconStar } from '@arco-design/web-react/icon';
+import { Space, Typography } from '@simao234430/yoo-components';
+import { IconCommand, IconStar } from '@simao234430/yoo-components/icon/index.es';
 import cs from 'classnames';
 import styles from './style/index.module.less';
 

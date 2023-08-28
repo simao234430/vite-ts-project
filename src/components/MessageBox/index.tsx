@@ -8,13 +8,13 @@ import {
   Avatar,
   Spin,
   Button,
-} from '@arco-design/web-react';
+} from '@simao234430/yoo-components';
 import {
   IconMessage,
   IconCustomerService,
   IconFile,
   IconDesktop,
-} from '@arco-design/web-react/icon';
+} from '@simao234430/yoo-components/icon/index.es';
 import useLocale from '../../utils/useLocale';
 import MessageList, { MessageListType } from './list';
 import styles from './style/index.module.less';

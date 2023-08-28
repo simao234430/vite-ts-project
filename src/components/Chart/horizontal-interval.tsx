@@ -1,6 +1,6 @@
 import React from 'react';
 import { Chart, Tooltip, Interval, Axis, Coordinate, G2 } from 'bizcharts';
-import { Spin } from '@arco-design/web-react';
+import { Spin } from '@simao234430/yoo-components';
 import CustomTooltip from './customer-tooltip';
 
 function HorizontalInterval({

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Typography, Card, Grid, Space } from '@arco-design/web-react';
+import { Typography, Card, Grid, Space } from '@simao234430/yoo-components';
 import axios from 'axios';
 import useLocale from '@/utils/useLocale';
 import HorizontalInterval from '@/components/Chart/horizontal-interval';

@@ -6,9 +6,9 @@ import {
   Button,
   Space,
   Typography,
-} from '@arco-design/web-react';
+} from '@simao234430/yoo-components';
 import PermissionWrapper from '@/components/PermissionWrapper';
-import { IconDownload, IconPlus } from '@arco-design/web-react/icon';
+import { IconDownload, IconPlus } from '@simao234430/yoo-components/icon/index.es';
 import axios from 'axios';
 import useLocale from '@/utils/useLocale';
 import SearchForm from './form';

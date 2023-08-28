@@ -1,4 +1,4 @@
-import { Card, Typography, Form, Input, Button } from '@arco-design/web-react';
+import { Card, Typography, Form, Input, Button } from '@simao234430/yoo-components';
 import React from 'react';
 import useLocale from '@/utils/useLocale';
 import locale from './locale';

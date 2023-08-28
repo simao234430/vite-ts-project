@@ -1,6 +1,6 @@
 import React, { useState, useMemo, useRef, useEffect } from 'react';
 import { Switch, Route, Redirect, useHistory } from 'react-router-dom';
-import { Layout, Menu, Breadcrumb, Spin } from '@arco-design/web-react';
+import { Layout, Menu, Breadcrumb, Spin } from '@simao234430/yoo-components';
 import cs from 'classnames';
 import {
   IconDashboard,
@@ -13,7 +13,7 @@ import {
   IconUser,
   IconMenuFold,
   IconMenuUnfold,
-} from '@arco-design/web-react/icon';
+} from '@simao234430/yoo-components/icon/index.es';
 import { useSelector } from 'react-redux';
 import qs from 'query-string';
 import NProgress from 'nprogress';

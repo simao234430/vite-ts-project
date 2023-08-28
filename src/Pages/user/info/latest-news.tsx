@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import { List, Typography, Skeleton, Avatar } from '@arco-design/web-react';
+import { List, Typography, Skeleton, Avatar } from '@simao234430/yoo-components';
 import styles from './style/index.module.less';
 
 const { Paragraph } = Typography;

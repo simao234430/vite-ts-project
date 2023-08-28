@@ -1,6 +1,6 @@
 import React from 'react';
-import { Typography, Result, Button, Link } from '@arco-design/web-react';
-import { IconLink } from '@arco-design/web-react/icon';
+import { Typography, Result, Button, Link } from '@simao234430/yoo-components';
+import { IconLink } from '@simao234430/yoo-components/icon/index.es';
 import useLocale from '@/utils/useLocale';
 import locale from './locale';
 import styles from './style/index.module.less';

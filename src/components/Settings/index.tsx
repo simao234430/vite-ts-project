@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { Drawer, Alert, Message } from '@arco-design/web-react';
-import { IconSettings } from '@arco-design/web-react/icon';
+import { Drawer, Alert, Message } from '@simao234430/yoo-components';
+import { IconSettings } from '@simao234430/yoo-components/icon/index.es';
 import copy from 'copy-to-clipboard';
 import { useSelector } from 'react-redux';
 import { GlobalState } from '../../store';

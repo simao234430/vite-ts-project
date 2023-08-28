@@ -1,5 +1,5 @@
 import React, { ReactNode } from 'react';
-import { Switch, Divider, InputNumber } from '@arco-design/web-react';
+import { Switch, Divider, InputNumber } from '@simao234430/yoo-components';
 import { useSelector, useDispatch } from 'react-redux';
 import { GlobalState } from '../../store';
 import useLocale from '../../utils/useLocale';

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Chart, Line, Axis, Legend, Area, Tooltip } from 'bizcharts';
-import { Spin } from '@arco-design/web-react';
+import { Spin } from '@simao234430/yoo-components';
 import CustomTooltip from './customer-tooltip';
 
 const areaColorMap = [

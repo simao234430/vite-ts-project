@@ -1,7 +1,7 @@
 import React from 'react';
-import { Card } from '@arco-design/web-react';
+import { Card } from '@simao234430/yoo-components';
 import cs from 'classnames';
-import { IconPlus } from '@arco-design/web-react/icon';
+import { IconPlus } from '@simao234430/yoo-components/icon/index.es';
 import styles from './style/index.module.less';
 
 interface AddCardProps {

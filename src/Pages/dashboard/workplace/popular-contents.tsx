@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { Link, Card, Radio, Table, Typography } from '@arco-design/web-react';
-import { IconCaretDown, IconCaretUp } from '@arco-design/web-react/icon';
+import { Link, Card, Radio, Table, Typography } from '@simao234430/yoo-components';
+import { IconCaretDown, IconCaretUp } from '@simao234430/yoo-components/icon/index.es';
 import axios from 'axios';
 import useLocale from '@/utils/useLocale';
 import locale from './locale';

@@ -9,8 +9,8 @@ import {
   Space,
   Button,
   Message,
-} from '@arco-design/web-react';
-import { FormInstance } from '@arco-design/web-react/es/Form';
+} from '@simao234430/yoo-components';
+import { FormInstance } from '@simao234430/yoo-components/es/Form';
 import axios from 'axios';
 import useLocale from '@/utils/useLocale';
 import locale from './locale';

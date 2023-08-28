@@ -5,14 +5,14 @@ import {
   Divider,
   Message,
   Typography,
-} from '@arco-design/web-react';
+} from '@simao234430/yoo-components';
 import {
   IconFile,
   IconStorage,
   IconSettings,
   IconMobile,
   IconFire,
-} from '@arco-design/web-react/icon';
+} from '@simao234430/yoo-components/icon/index.es';
 import useLocale from '@/utils/useLocale';
 import locale from './locale';
 import styles from './style/shortcuts.module.less';

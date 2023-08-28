@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Typography, Badge } from '@arco-design/web-react';
+import { Button, Typography, Badge } from '@simao234430/yoo-components';
 import IconText from './icons/text.svg';
 import IconHorizontalVideo from './icons/horizontal.svg';
 import IconVerticalVideo from './icons/vertical.svg';

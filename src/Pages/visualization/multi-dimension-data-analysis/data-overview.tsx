@@ -6,14 +6,14 @@ import {
   Grid,
   Statistic,
   Skeleton,
-} from '@arco-design/web-react';
+} from '@simao234430/yoo-components';
 import axios from 'axios';
 import {
   IconUser,
   IconEdit,
   IconHeart,
   IconThumbUp,
-} from '@arco-design/web-react/icon';
+} from '@simao234430/yoo-components/icon/index.es';
 import useLocale from '@/utils/useLocale';
 import locale from './locale';
 import styles from './style/data-overview.module.less';

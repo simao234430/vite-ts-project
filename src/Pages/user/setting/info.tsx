@@ -11,7 +11,7 @@ import {
   Space,
   Message,
   Skeleton,
-} from '@arco-design/web-react';
+} from '@simao234430/yoo-components';
 
 function InfoForm({ loading }: { loading?: boolean }) {
   const t = useLocale(locale);
