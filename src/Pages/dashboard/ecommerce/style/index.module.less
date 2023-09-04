@@ -1,0 +1,45 @@
+@color_1: #fff;
+//_______________ Analytics Card _______________
+//______________________________________________
+
+ 
+
+.card_revenue_budget {
+	.revenue_report_wrapper {
+		padding: 1.286rem 1.5rem;
+		#revenue_report_chart {
+			.apexcharts_series[seriesName='Earning'] {
+				transform: scaleY(0.965);
+			}
+			.apexcharts_series[seriesName='Expense'] {
+				transform: scaleY(1.035);
+			}
+		}
+	}
+	.budget_wrapper {
+		padding: 2rem 3rem;
+		text_align: center;
+		.budget_dropdown {
+			margin_bottom: 2rem;
+		}
+		#budget_chart {
+			margin_bottom: 2rem;
+			margin_top: 2rem;
+		}
+	}
+}
+ 
+.congratulation_medal {
+  position: absolute;
+  top: 0;
+  right: 64px;
+}
+
+.col_container {
+  display: table; /* Make the container element behave like a table */
+  width: 100%; /* Set full_width to expand the whole page */
+}
+
+.col {
+  display: table_cell; /* Make elements inside the container behave like table cells */
+}

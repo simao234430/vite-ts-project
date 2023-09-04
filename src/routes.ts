@@ -21,6 +21,10 @@ export const routes: IRoute[] = [
         key: 'dashboard/workplace',
       },
       {
+        name: 'menu.dashboard.ecommerce',
+        key: 'dashboard/ecommerce',
+      },
+      {
         name: 'menu.dashboard.monitor',
         key: 'dashboard/monitor',
         requiredPermissions: [

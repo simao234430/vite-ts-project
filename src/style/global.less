@@ -40,3 +40,12 @@ body[arco-theme='dark'] {
     }
   }
 }
+
+// Card match height
+.match-height>[class*='arco-col'] {
+	display: flex;
+	flex-flow: column;
+}
+.match-height>[class*='arco-col']>.card {
+	flex: 1 1 auto;
+}
